@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Plant-Coach/nginx-ingress-maintainer/compare/v1.1.1...v1.2.0) (2025-07-24)
+
+
+### Features
+
+* add tls and configuration for the www ([#27](https://github.com/Plant-Coach/nginx-ingress-maintainer/issues/27)) ([800f8e0](https://github.com/Plant-Coach/nginx-ingress-maintainer/commit/800f8e00157234759bfbaba02de2669f09e1bb8b))
+
 ## [1.1.1](https://github.com/Plant-Coach/nginx-ingress-maintainer/compare/v1.1.0...v1.1.1) (2025-07-03)
 
 
